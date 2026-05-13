@@ -1,0 +1,42 @@
+{
+  "businessName": "Thank You Supermarket",
+  "industry": "Retail & Manufacturing",
+  "tone": "warm and inviting",
+  "tagline": "Your First Choice for Quality and Value",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Thank You Supermarket - Your trusted partner for quality products and exceptional service in Ibeju Lekki. From fresh groceries to household essentials, we bring you the best at prices you'll love.",
+      "imagePrompt": "Wide-angle photorealistic interior of a modern Nigerian supermarket with neatly stocked shelves, bright LED lighting, colorful product displays, shopping carts in the foreground, clean tiled floors, and warm welcoming atmosphere with diverse Nigerian customers shopping",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Thank You Supermarket is your first choice for quality shopping in Ibeju Lekki. Located at Oribanwa, Daodu Street, Lagassa Road by Redeemed Christian Church of God, Lagos State, we combine retail excellence with manufacturing capabilities to serve our community better. We pride ourselves on offering fresh products, competitive prices, and a shopping experience that keeps our customers coming back. Our commitment to quality and customer satisfaction has made us a household name in the neighborhood.",
+      "imagePrompt": "Professional exterior photograph of a well-maintained Nigerian supermarket building with clear signage, paved parking area, palm trees, customers entering with shopping bags, bright daylight, Lagos architectural style, clean storefront with large windows",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "What We Offer",
+      "copy": "At Thank You Supermarket, we provide a comprehensive range of products and services:\n\n• Fresh Groceries & Provisions - Daily fresh produce, vegetables, and essential food items\n• Household Essentials - Everything you need to keep your home running smoothly\n• Manufactured Products - Quality items produced in-house for guaranteed freshness\n• Bulk Purchase Options - Special rates for wholesale buyers and businesses\n• Home Delivery - Convenient delivery service within Ibeju Lekki and surrounding areas\n• Quality Assurance - Every product carefully selected for freshness and quality\n\nWhether you're shopping for your family's weekly groceries or stocking up for your business, we've got you covered.",
+      "imagePrompt": "Vibrant collage-style image showing various supermarket sections: fresh fruits and vegetables in wooden crates, packaged goods on modern shelves, household items neatly arranged, Nigerian shoppers examining products, bright colorful packaging, abundance and variety",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Experience the Thank You Supermarket difference. We're conveniently located in the heart of Ibeju Lekki, ready to serve you with a smile.\n\nOur Location:\nOribanwa, Daodu Street, Lagassa Road by Redeemed Christian Church of God\nIbeju Lekki, Lagos State, Nigeria\n\nGet in Touch:\nCall us: 0810 243 7660\nWhatsApp: Click to chat instantly\n\nStore Hours:\nMonday - Saturday: 8:00 AM - 8:00 PM\nSunday: 10:00 AM - 6:00 PM\n\nWe look forward to welcoming you!",
+      "imagePrompt": "Clean professional image of a Nigerian business storefront with visible location signage, customers at the entrance, clear street view with recognizable Lagos landmarks, smartphone showing WhatsApp chat icon in foreground, inviting atmosphere with natural lighting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0810 243 7660",
+    "email": "info@thankyousupermarket.ng",
+    "address": "Oribanwa, Daodu Street, Lagassa Road by Redeemed Christian Church of God, Ibeju Lekki, Lagos State, Nigeria",
+    "whatsapp": "https://wa.me/2348102437660"
+  }
+}
